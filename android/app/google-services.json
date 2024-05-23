@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891412579126",
+    "project_id": "prjjoaopersistencia",
+    "storage_bucket": "prjjoaopersistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891412579126:android:6b05f2cf9a0b2b7c8d6997",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0vyZtdnr2Adf2JvjFb6kDMNsir6CUQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
